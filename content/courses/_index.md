@@ -3,6 +3,7 @@ header:
   caption: ""
   image: ""
 layout: docs
-title: Courses
+title: Teaching
 ---
 
+## Data visualization in `ggplot2`

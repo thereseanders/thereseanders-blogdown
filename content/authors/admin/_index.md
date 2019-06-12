@@ -16,8 +16,8 @@ education:
     year: 2013
 email: "tanders@usc.edu"
 interests:
-- Peace and Conflict Studies
 - Computational Social Science
+- Peace and Conflict
 - Economic Development
 name: Therese Anders
 organizations:
