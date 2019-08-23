@@ -1,8 +1,7 @@
 ---
 authors:
-- admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+- thereseanders
+bio: Ph.D. candidate in international relations and data science enthusiast.
 education:
   courses:
   - course: Ph.D. Political Science and International Relations
@@ -16,9 +15,10 @@ education:
     year: 2013
 email: "tanders@usc.edu"
 interests:
-- Computational Social Science
-- Peace and Conflict
-- Economic Development
+- Computational social science
+- Peace and conflict
+- Economic development
+- Data visualization
 name: Therese Anders
 organizations:
 - name: University of Southern California
@@ -38,11 +38,8 @@ social:
   icon_pack: fab
   link: https://github.com/thereseanders
 superuser: true
-user_groups:
-- Researchers
-- Visitors
 ---
 
-Therese Anders is a Ph.D. candidate in [Political Science and International Relations](https://dornsife.usc.edu/poir/) at the University of Southern California. Her dissertation focuses on the development of new estimates of territorial control and subnational conflict exposure in civil wars using machine learning and geo-coded event data. 
+I am a Ph.D. candidate in [Political Science and International Relations](https://dornsife.usc.edu/poir/) at the University of Southern California. My dissertation focuses on the development of new estimates of territorial control and subnational conflict exposure in civil wars using machine learning and geo-coded event data. 
 
-Therese is an intern at [RStudio](https://www.rstudio.com) on implementing calibrated peer review in data science classes via the [`ghclass`](https://github.com/rundel/ghclass) package. She served as the Director of Research and Training for the [Security and Political Economy (SPEC) Lab](http://uscspec.org) and teaches math for social science, [data wrangling](https://github.com/thereseanders/Workshop-DataManagement-tidyverse), and [visualization](https://github.com/thereseanders/workshop-dataviz-fsu).
+As an intern at [RStudio](https://www.rstudio.com), I worked on implementing peer review in data science classes via the [`ghclass`](https://github.com/rundel/ghclass) package. I served as the Director of Research and Training for the [Security and Political Economy (SPEC) Lab](http://uscspec.org) and teach math for social science, [data wrangling](https://github.com/thereseanders/Workshop-DataManagement-tidyverse), and [visualization](https://github.com/thereseanders/workshop-dataviz-fsu).

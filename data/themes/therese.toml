@@ -1,0 +1,20 @@
+
+# Theme metadata
+name = "therese"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#76323F"
+
+# Menu
+menu_primary = "#565656"
+menu_text = "#f7f5f4"
+menu_text_active = "#76323F"
+menu_title = "#f7f5f4"
+
+# Backgrounds
+background = "#f7f5f4"
+home_section_odd = "#f7f5f4"
+home_section_even = "#f7f5f4"
