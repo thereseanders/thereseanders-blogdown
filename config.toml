@@ -9,11 +9,12 @@ title = "Therese Anders"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://distracted-lamport-4a7fc5.netlify.com/"
+# baseurl = "https://distracted-lamport-4a7fc5.netlify.com/"
+baseurl = "http://therese.rbind.io"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; Therese Anders {year}"
+copyright = "&copy; Therese Anders {year} ([tanders@usc.edu](mailto:tanders@usc.edu))"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
@@ -68,3 +69,25 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 [permalinks]
   post = "/post/:year/:slug/" 
   
+[params]
+# From https://github.com/earowang/earo.me/blob/master/config.toml
+# Publication types.
+#   Used to categorize publications.
+#   The index of the publication type in the list is used as its unique numerical identifier.
+#   The numeric ID is used in a publication's frontmatter to categorize it.
+#   The language can be edited below.
+#   For multi-lingual sites, copy this block to each language section at the end of this file.
+  publication_types = [
+    'Uncategorized',  # 0
+    'Conference proceedings',  # 1
+    'Journal',  # 2
+    'Working paper',  # 3
+    'Technical report',  # 4
+    'Book',  # 5
+    'Book chapter'  # 6
+  ]
+
+  [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "//orcid.org/0000-0002-0773-9655"
