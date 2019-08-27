@@ -2,10 +2,10 @@
 name = "therese"
 
 # Optional Google font URL
-google_fonts = "Chau Philomene One:400,400i|Source Sans Pro:400,700|Roboto+Mono"
+google_fonts = "Libre Caslon Display:400,400i|Source Sans Pro:400,700|Roboto+Mono"
 
 # Font families
-heading_font = "Chau Philomene One"
+heading_font = "Libre Caslon Display"
 body_font = "Source Sans Pro"
 nav_font = "Source Sans Pro"
 mono_font = "Roboto Mono"
@@ -19,6 +19,9 @@ font_size_small = "16"
 # Chau Philomene One
 # Scada
 # Cuprum
+# Playfair Display
+# Libre Caslon Display - a little narrower
+# Forum
 
 ## Main text
 # Volkorn (serif)
