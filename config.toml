@@ -53,6 +53,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 	angledQuotes = false
 	latexDashes = true
   extensions = ["backslashLineBreak"]
+  plainIDAnchors = true
 
 [imaging]
   resampleFilter = "lanczos"
@@ -67,7 +68,8 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   author = "authors"
 
 [permalinks]
-  post = "/post/:year/:slug/" 
+  posts = "/post/:year/:slug/" 
+  research = "/publication/:year-:slug/"
   
 [params]
 # From https://github.com/earowang/earo.me/blob/master/config.toml
@@ -84,7 +86,9 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
     'Working paper',  # 3
     'Technical report',  # 4
     'Book',  # 5
-    'Book chapter'  # 6
+    'Book chapter',  # 6
+    'NA',  # 7
+    'Under review',  # 8
   ]
 
   [[params.social]]

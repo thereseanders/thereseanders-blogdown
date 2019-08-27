@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Projects"
+title = "Teaching"
 subtitle = ""
 
 [content]
@@ -26,12 +26,24 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Data visualization"
+    tag = "Data visualization"
+    
+  [[content.filter_button]]
+    name = "Data management"
+    tag = "Data management"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Math"
+    tag = "Math"
+    
+  [[content.filter_button]]
+    name = "R"
+    tag = "R"
+    
+  [[content.filter_button]]
+    name = "LaTeX"
+    tag = "LaTeX"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

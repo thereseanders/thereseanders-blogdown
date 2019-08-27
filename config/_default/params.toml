@@ -3,13 +3,13 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
-color_theme = "therese"
+color_theme = "light"
 # Enable users to switch between day and night mode?
 day_night = false
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
-font = "default"
+font = "therese"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "Therese Anders, PhD candidate in Political Science and International Relations"
@@ -37,7 +37,7 @@ math = true
 # Privacy pack
 #   Show a cookie consent message to visitors
 #   Anonymize IP in Google Analytics (if enabled)
-privacy_pack = false
+privacy_pack = true
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -109,7 +109,7 @@ plugins_js  = []
 gravatar = false
 
 # Align the main menu to the right of the page? (true/false)
-menu_align_right = false
+menu_align_right = true
 
 # Show estimated reading time for posts? (true/false)
 reading_time = false
@@ -132,6 +132,8 @@ sharing = true
 
   # Citation style ("apa" or "mla")
   citation_style = "apa"
+  
+  links_authors = false
 
 # Configuration of project pages.
 [projects]
@@ -141,7 +143,7 @@ sharing = true
   #   3: Card
   #   4: Citation (publications only)
   post_view = 2
-  publication_view = 4
+  publication_view = 2
   talk_view = 2
 
 # Search.

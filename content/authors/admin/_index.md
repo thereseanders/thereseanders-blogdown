@@ -16,7 +16,7 @@ education:
 email: "tanders@usc.edu"
 interests:
 - Computational social science
-- Peace and conflict
+- Peace & conflict
 - Economic development
 - Data visualization
 name: Therese Anders
@@ -45,4 +45,4 @@ superuser: true
 
 I am a Ph.D. candidate in [Political Science and International Relations](https://dornsife.usc.edu/poir/) at the University of Southern California. My dissertation focuses on the estimation of territorial control and subnational conflict exposure in civil wars using machine learning and geo-coded event data. 
 
-As an intern at [RStudio](https://www.rstudio.com), I worked on implementing peer review in data science classes via the [`ghclass`](https://github.com/rundel/ghclass) package. I served as the Director of Research and Training for the [Security and Political Economy (SPEC) Lab](http://uscspec.org) and teach math for social science, [data wrangling](https://github.com/thereseanders/Workshop-DataManagement-tidyverse), and [visualization](https://github.com/thereseanders/workshop-dataviz-fsu).
+As an intern at [RStudio](https://www.rstudio.com), I worked on implementing peer review in data science classes via the [`ghclass`](https://rundel.github.io/ghclass/) package. I served as the Director of Research and Training for the [Security and Political Economy (SPEC) Lab](http://uscspec.org) and teach math for social science, [data management](https://github.com/thereseanders/Workshop-DataManagement-tidyverse), and [visualization](https://github.com/thereseanders/workshop-dataviz-fsu).
