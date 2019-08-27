@@ -2,8 +2,8 @@
 date: "2017-04-01T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  caption: 
+  focal_point: TopLeft
 slides: 
 summary: USC Political Science & International Relations (POIR) program
 tags:

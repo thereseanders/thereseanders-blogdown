@@ -3,7 +3,7 @@ date: "2018-10-01T00:00:00Z"
 external_link: ""
 image:
   caption: 
-  focal_point: Smart
+  focal_point: Left
 slides: 
 summary: USC Security & Political Economy (SPEC) Lab
 tags:

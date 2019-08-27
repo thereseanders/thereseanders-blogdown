@@ -2,8 +2,8 @@
 date: "2019-05-06T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  caption: 
+  focal_point: BottomLeft
 slides: 
 summary: Florida State University Summer Methods School
 tags:

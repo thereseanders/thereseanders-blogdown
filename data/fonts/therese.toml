@@ -2,12 +2,12 @@
 name = "therese"
 
 # Optional Google font URL
-google_fonts = "Libre Caslon Display:400,400i|Source Sans Pro:400,700|Roboto+Mono"
+google_fonts = "Catamaran:300,400,400i|Source Sans Pro:400,700|Roboto+Mono"
 
 # Font families
-heading_font = "Libre Caslon Display"
+heading_font = "Catamaran"
 body_font = "Source Sans Pro"
-nav_font = "Source Sans Pro"
+nav_font = "Catamaran"
 mono_font = "Roboto Mono"
 
 # Font size
@@ -17,11 +17,18 @@ font_size_small = "16"
 ## Headings
 # Oswald
 # Chau Philomene One
-# Scada
 # Cuprum
 # Playfair Display
-# Libre Caslon Display - a little narrower
+# Libre Caslon Display - a little narrower!! Good
 # Forum
+
+# Sans serif
+# Titillium Web
+# Fira Sans Condensed (!)
+# Khula
+# Reem Kufi
+# Catamaran
+
 
 ## Main text
 # Volkorn (serif)

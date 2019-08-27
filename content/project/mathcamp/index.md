@@ -2,7 +2,7 @@
 date: "2019-08-19T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 slides: 
 summary: USC POIR & Sociology PhD departments
