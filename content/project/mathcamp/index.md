@@ -5,7 +5,7 @@ image:
   caption: 
   focal_point: Smart
 slides: 
-summary: USC POIR & Sociology PhD departments
+summary: USC Political Science & International Relations (POIR) and Sociology departments
 tags:
 - Math
 - R
