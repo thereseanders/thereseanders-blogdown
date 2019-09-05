@@ -18,7 +18,7 @@ publication_types:
 - "2"
 publishDate: "Accepted"
 slides: 
-summary: Accepted in *International Studies Quarterly*
+summary: Forthcoming in *International Studies Quarterly*
 tags:
 - International Relations
 title: Bread before guns or butter. Introducing Surplus Domestic Product (SDP)
