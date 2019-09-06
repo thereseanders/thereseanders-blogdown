@@ -9,7 +9,7 @@ doi: ""
 featured: true
 image:
   caption: "Respondents' opinion on bailout, austerity, and debt relief"
-  focal_point: ""
+  focal_point: "Center"
   preview_only: false
 projects: []
 publication: '*Political Psychology*'

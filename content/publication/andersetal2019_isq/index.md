@@ -8,7 +8,7 @@ date: "2019-08-26"
 doi: ""
 featured: true
 image:
-  caption: 'Influence of China & Russia on potential threat experienced by US'
+  caption: 'Influence of China & Russia on potential threat experienced by the United States'
   focal_point: ""
   preview_only: false
 projects: []
