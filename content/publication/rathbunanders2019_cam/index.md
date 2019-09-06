@@ -1,7 +1,7 @@
 ---
 abstract: 
 authors:
-- Brian C. Rathbun
+- "[Brian C. Rathbun](https://dornsife.usc.edu/brianrathbun/)"
 - admin
 date: "2019-02-01"
 doi: ""
