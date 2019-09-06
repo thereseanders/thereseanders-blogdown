@@ -1,8 +1,8 @@
 ---
 abstract: The recent Eurozone crisis and negotiations over bailout packages to Greece are more than a simple controversy about financial resources. They have a decidedly moralistic overtone. Giving more funds is thought by some to be unfair to hard‐working taxpayers and does not teach Greece an important moral lesson. Yet much international political economy scholarship neglects such considerations. We build on moral psychology to understand the ethical drivers of both German support and opposition to the 2015 Greek government bailout package. We analyze original survey data to show how morality is an essential factor in Germany's hard‐line approach. Our results show that caring and European attachment are associated with bailout support, while authority, national attachment, and retributive fairness drive opposition. Some morals also have boundaries. National attachment attenuates the effect of harm/care on support for foreign financial assistance but strengthens the effect of fairness on bailout opposition. Moral psychology helps us understand foreign policy but must be adapted to account for multiple potential ingroups.
 authors:
-- Brian C. Rathbun
-- Kathleen E. Powers
+- "[Brian C. Rathbun](https://dornsife.usc.edu/brianrathbun/)"
+- "[Kathleen E. Powers](http://www.kepowers.com)"
 - admin
 date: "2019-06-01"
 doi: ""

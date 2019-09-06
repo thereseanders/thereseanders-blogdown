@@ -1,8 +1,8 @@
 ---
 abstract: We study whether the forced removal of undocumented immigrants from the United States increases violent crime in Mexican municipalities. Using municipal panel data on homicide rate matched with annual deportation flows from the United States to Mexico, we assess whether municipalities with repatriation points experience higher violent crime with surges in deportation flows. We consistently find that municipalities with greater geographic exposure to deportation flows have higher violent crime. The effects are mostly driven by increments in homicide rate of young males and minors. Deportees themselves are most likely to be crime victims.
 authors:
-- Sandra Rozo
-- Steven P. Raphael
+- "[Sandra Rozo](https://www.sandravrozo.com)"
+- "[Steven P. Raphael](https://gspp.berkeley.edu/directories/faculty/steven-raphael)"
 - admin
 date: "2018-06-27"
 doi: ""
