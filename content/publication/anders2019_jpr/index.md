@@ -26,7 +26,7 @@ url_dataset: ""
 url_pdf: 
 url_poster: ""
 url_project: 
-url_slides: ""
+url_slides: anders_territorialcontrol_newfaces2019.pdf
 url_source: ""
 url_video: ""
 links:
