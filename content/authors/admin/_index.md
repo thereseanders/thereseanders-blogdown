@@ -6,7 +6,7 @@ education:
   courses:
   - course: Ph.D. Political Science and International Relations
     institution: University of Southern California
-    year: exp. 2019
+    year: def. 2019
   - course: M.A. Economics
     institution: University of Southern California
     year: 2015
@@ -21,9 +21,9 @@ interests:
 - Data visualization
 name: Therese Anders
 organizations:
-- name: University of Southern California
-  url: "https://dornsife.usc.edu/poir/"
-role: Ph.D. candidate, computational social scientist
+- name: Hertie School
+  url: "https://www.hertie-school.org"
+role: Postdoctoral research fellow • data scientist
 social:
 - icon: envelope
   icon_pack: fas
@@ -43,6 +43,7 @@ social:
 superuser: true
 ---
 
-I am a Ph.D. candidate in [Political Science and International Relations](https://dornsife.usc.edu/poir/) at the University of Southern California. My dissertation focuses on the estimation of territorial control and subnational conflict exposure in civil wars using machine learning and geo-coded event data. 
+I am a postdoctoral research fellow and data scientist at the [Hertie School Data Science Lab](https://www.hertie-school.org/en/datasciencelab/) and [SCRIPTS Cluster of Excellence](https://www.scripts-berlin.eu) Data and Methodology Center in Berlin. I defended my dissertation to graduate from the [University of Southern California](https://dornsife.usc.edu/poir/) (USC) with a Ph.D. in Political Science and International Relations in 2019. 
 
-As an intern at [RStudio](https://www.rstudio.com), I worked on implementing peer review in data science classes via the [`ghclass`](https://rundel.github.io/ghclass/articles/peer.html) package. I served as the Director of Research and Training for the [Security and Political Economy (SPEC) Lab](http://uscspec.org) and teach math for social science, [data management](https://github.com/thereseanders/Workshop-DataManagement-tidyverse), and [visualization](https://github.com/thereseanders/workshop-dataviz-fsu).
+My research focuses on the estimation of territorial control and subnational conflict exposure in civil wars using machine learning and geo-coded event data. As an intern at [RStudio](https://www.rstudio.com), I worked on implementing peer review in data science classes via the [`ghclass`](https://rundel.github.io/ghclass/articles/peer.html) package. I served as the Director of Research and Training for USC's [Security and Political Economy (SPEC) Lab](http://uscspec.org) and teach math for social science, [data management](https://github.com/thereseanders/Workshop-DataManagement-tidyverse), and [visualization](https://github.com/thereseanders/workshop-dataviz-fsu).
+

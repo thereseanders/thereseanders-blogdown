@@ -18,7 +18,7 @@ publication_types:
 - "3"
 publishDate: "2019-06-01"
 slides: 
-summary: Under review
+summary: Revise and resubmit at *Journal of Population Economics*
 tags:
 - Migration
 title: Deportation, Crime, and Victimization
