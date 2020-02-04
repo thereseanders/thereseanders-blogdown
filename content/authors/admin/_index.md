@@ -13,7 +13,7 @@ education:
   - course: Diplom Political Science
     institution: Freie Universität Berlin
     year: 2013
-email: "tanders@usc.edu"
+email: "tanders.usc@gmail.com"
 interests:
 - Computational social science
 - Peace & conflict
@@ -45,4 +45,6 @@ superuser: true
 
 I am a postdoctoral research fellow and data scientist at the [Hertie School Data Science Lab](https://www.hertie-school.org/en/datasciencelab/) and [SCRIPTS Cluster of Excellence](https://www.scripts-berlin.eu) Data and Methodology Center in Berlin. I defended my dissertation to graduate from the [University of Southern California](https://dornsife.usc.edu/poir/) with a Ph.D. in Political Science and International Relations in 2019. 
 
-My research focuses on the estimation of territorial control and subnational conflict exposure in civil wars using machine learning and geo-coded event data. As an intern at [RStudio](https://www.rstudio.com), I worked on implementing peer review in data science classes via the [`ghclass`](https://rundel.github.io/ghclass/articles/peer.html) package. I served as the Director of Research and Training for USC's [Security and Political Economy (SPEC) Lab](http://uscspec.org) and teach math for social science, [data management](https://github.com/thereseanders/Workshop-DataManagement-tidyverse), and [visualization](https://github.com/thereseanders/workshop-dataviz-fsu).
+My research focuses on conflict processes. I am particularly interested in measurement innovation using tools of computational social science. Recent projects explore the estimation of territorial control in civil war using machine learning, migration, and historic spatiotemporal patterns of states’ economic power. 
+
+As an intern at [RStudio](https://www.rstudio.com), I developed open source software solutions for peer review in data science classes via the [`ghclass`](https://rundel.github.io/ghclass/articles/peer.html) package. I served as the Director of Research and Training for USC's [Security and Political Economy (SPEC) Lab](http://uscspec.org) and teach math for social science, [data management](https://github.com/thereseanders/Workshop-DataManagement-tidyverse), and [visualization](https://github.com/thereseanders/workshop-dataviz-fsu).

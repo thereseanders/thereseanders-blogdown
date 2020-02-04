@@ -4,7 +4,7 @@ authors:
 - "[Sandra Rozo](https://www.sandravrozo.com)"
 - "[Steven P. Raphael](https://gspp.berkeley.edu/directories/faculty/steven-raphael)"
 - admin
-date: "2018-06-27"
+date: "2019-12-01"
 doi: ""
 featured: true
 image:
@@ -16,7 +16,7 @@ publication: ''
 publication_short: ""
 publication_types:
 - "3"
-publishDate: "2019-06-01"
+publishDate: ""
 slides: 
 summary: Revise and resubmit at *Journal of Population Economics*
 tags:

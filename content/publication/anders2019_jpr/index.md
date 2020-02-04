@@ -20,6 +20,7 @@ summary: Revise and resubmit at *Journal of Peace Research*
 tags:
 - Machine Learning
 - Civil war
+- Measurement
 title: Territorial control in civil wars. Theory and measurement using machine learning
 url_code: ""
 url_dataset: ""
@@ -31,5 +32,5 @@ url_source: ""
 url_video: ""
 links:
 - name: Appendix
-  url: territorialcontrol_onlineappendix.pdf
+  url: territorialcontrol_anders_appendix_191211.pdf
 ---
