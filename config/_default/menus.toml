@@ -28,6 +28,11 @@
   url = "project/"
   weight = 20
   
+[[main]]
+  name = "Software"
+  url = "software/"
+  weight = 30
+  
 #[[main]]
 #  name = "Courses"
 #  url = "courses/"
