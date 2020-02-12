@@ -23,7 +23,7 @@ name: Therese Anders
 organizations:
 - name: Hertie School
   url: "https://www.hertie-school.org"
-role: Postdoctoral research fellow • data scientist
+role: Data scientist • Postdoctoral research fellow
 social:
 - icon: envelope
   icon_pack: fas
