@@ -14,7 +14,7 @@ subtitle:
 url_code: ""
 url_pdf: ""
 url_slides: "anders_lightning_ballroomA.pdf"
-url_video: ""
+url_video: https://resources.rstudio.com/rstudio-conf-2020/lightning-talk-therese-anders
 links:
 ---
 
