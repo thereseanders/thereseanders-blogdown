@@ -47,7 +47,7 @@ I am a data scientist and postdoctoral researcher at the [Hertie School Data Sci
 
 My research focuses on conflict processes and computational social science. Recent projects explore the estimation of territorial control in civil war using machine learning, dynamics of migration, and spatiotemporal patterns of states’ economic power. I served as the Director of Research and Training for USC's [Security and Political Economy (SPEC) Lab](http://uscspec.org) and teach math for social science, [data management](https://github.com/thereseanders/Workshop-DataManagement-tidyverse), and [visualization](https://github.com/thereseanders/workshop-dataviz-fsu).
 
-As an intern at [RStudio](https://www.rstudio.com), I developed open source software solutions for peer review in data science classes via the [`ghclass`](https://rundel.github.io/ghclass/articles/peer.html) package. 
+As an intern at [RStudio](https://www.rstudio.com), I developed open-source software  for peer review in data science courses via the [`ghclass`](https://rundel.github.io/ghclass/articles/peer.html) R package. 
 
 
 

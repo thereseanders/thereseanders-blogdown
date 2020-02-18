@@ -22,7 +22,7 @@ The [`ghclass`](https://rundel.github.io/ghclass/index.html) package in `R` prov
 
 Peer review enables instructors of large data science classes to provide substantive feedback to students beyond what is feasible with standard code review via automated grading and continuous integration. It facilitates peer learning, which is shown in literature to have positive learning outcomes, and can reduce the burden of grading by course staff. 
 
-The [`ghclass`](https://rundel.github.io/ghclass/index.html) package is available as a development version package from GitHub:
+[`ghclass`](https://rundel.github.io/ghclass/index.html) is available as a development version package from GitHub:
 ```r 
 # install.packages("remotes")
 remotes::install_github("rundel/ghclass")
