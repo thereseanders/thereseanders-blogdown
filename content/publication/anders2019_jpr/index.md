@@ -24,7 +24,7 @@ tags:
 title: Territorial control in civil wars. Theory and measurement using machine learning
 url_code: ""
 url_dataset: ""
-url_pdf: 
+url_pdf: anders2019_jpr.pdf
 url_poster: ""
 url_project: 
 url_slides: anders_territorialcontrol_newfaces2019.pdf
