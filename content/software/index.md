@@ -16,6 +16,10 @@ url_pdf: ""
 url_slides: "anders_lightning_ballroomA.pdf"
 url_video: https://resources.rstudio.com/rstudio-conf-2020/lightning-talk-therese-anders
 links:
+- name: Package
+  url: https://rundel.github.io/ghclass/index.html
+- name: Vignette
+  url: https://rundel.github.io/ghclass/articles/peer.html
 ---
 
 The [`ghclass`](https://rundel.github.io/ghclass/index.html) package in `R` provides a suite of functions to manage courses via GitHub repositories. The package has recently been supplemented with the functionality to implement **peer review**. Developed during my 2019 summer internship with RStudio, in collaboration with [Mine Çetinkaya-Rundel](http://mine-cr.com) and [Colin Rundel](http://www2.stat.duke.edu/~cr173/), the peer review functions in [`ghclass`](https://rundel.github.io/ghclass/index.html) interface with the GitHub API to create review repositories, move files between authors and reviewers, submit feedback, and collect grades. 
