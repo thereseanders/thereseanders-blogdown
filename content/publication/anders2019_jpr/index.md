@@ -16,7 +16,7 @@ publication_types:
 - "3"
 publishDate: ""
 slides: 
-summary: Revise and resubmit at *Journal of Peace Research*
+summary: Forthcoming at *Journal of Peace Research*
 tags:
 - Machine Learning
 - Civil war
