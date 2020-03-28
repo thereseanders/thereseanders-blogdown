@@ -13,7 +13,7 @@ projects: []
 publication: ''
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: ""
 slides: 
 summary: Forthcoming at *Journal of Peace Research*
