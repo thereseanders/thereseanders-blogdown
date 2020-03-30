@@ -54,7 +54,7 @@ As an intern at [RStudio](https://www.rstudio.com), I developed open-source soft
 ---
 ### News
 
-[2020-03-18] View my [dashboard](https://thereseanders.shinyapps.io/covid19/) visualizing trends of Covid-19 cases using data from the [Johns Hopkins University Center for Systems Science and Engineering](https://github.com/CSSEGISandData/COVID-19) [here :chart_with_upwards_trend:](https://thereseanders.shinyapps.io/covid19/). Updates daily.
+[2020-03-18] View my [dashboard](https://thereseanders.shinyapps.io/covid19/) visualizing trends of Covid-19 cases using data from the [Johns Hopkins University Center for Systems Science and Engineering](https://github.com/CSSEGISandData/COVID-19) [here :chart_with_upwards_trend:](https://thereseanders.shinyapps.io/covid19/).
 
 [2020-02-18] I gave a lighting talk at rstudio::conf 2020 on peer review with [`ghclass`]((https://rundel.github.io/ghclass/articles/peer.html)). View the recoding :movie_camera: [here](https://resources.rstudio.com/rstudio-conf-2020/lightning-talk-therese-anders).
 
