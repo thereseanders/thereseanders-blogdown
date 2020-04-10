@@ -23,7 +23,7 @@ tags:
 - International Relations
 - Measurement
 title: Bread before guns or butter. Introducing Surplus Domestic Product (SDP)
-url_code: ""
+url_code: "https://github.com/thereseanders/sdp"
 url_dataset: ""
 url_pdf: 
 url_poster: ""
