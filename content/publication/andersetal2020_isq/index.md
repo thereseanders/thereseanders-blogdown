@@ -18,7 +18,7 @@ publication_types:
 - "2"
 publishDate: 2020
 slides: 
-summary: Forthcoming in *International Studies Quarterly*
+summary: *International Studies Quarterly* (2020)
 tags:
 - International Relations
 - Measurement

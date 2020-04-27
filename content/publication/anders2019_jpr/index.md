@@ -16,7 +16,7 @@ publication_types:
 - "2"
 publishDate: ""
 slides: 
-summary: Forthcoming at *Journal of Peace Research*
+summary: Forthcoming in *Journal of Peace Research*
 tags:
 - Machine Learning
 - Civil war
