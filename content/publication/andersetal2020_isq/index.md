@@ -4,7 +4,7 @@ authors:
 - admin
 - "[Christopher J. Fariss](http://cfariss.com)"
 - "[Jonathan N. Markowitz](https://dornsife.usc.edu/jonathan-markowitz/)"
-date: "2019-08-26"
+date: "2020-04-24"
 doi: ""
 featured: true
 image:
@@ -16,7 +16,7 @@ publication: '*International Studies Quarterly*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "Accepted"
+publishDate: 2020
 slides: 
 summary: Forthcoming in *International Studies Quarterly*
 tags:
@@ -25,13 +25,15 @@ tags:
 title: Bread before guns or butter. Introducing Surplus Domestic Product (SDP)
 url_code: "https://github.com/thereseanders/sdp"
 url_dataset: ""
-url_pdf: 
+url_pdf: andersetal2020_isq.pdf
 url_poster: ""
 url_project: 
 url_slides: ""
 url_source: ""
 url_video: ""
 links:
+- name: Article
+  url: https://doi.org/10.1093/isq/sqaa013
 - name: Appendix
-  url: andersetalforthcoming_isq_appendix.pdf
+  url: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/isq/PAP/10.1093_isq_sqaa013/1/sqaa013_appendix.pdf?Expires=1591030366&Signature=jJ1p5PVJC88USD2pkCKMD9SSr9VSdipVbJZy2CmRH9DDbNpdABSXvyv4RSKUhOiQePXeSQ85hG5DaxPjx4KtbryZ4SreTiO0CL7Hy7ExHx1RRbYXeMAVjwxgEVFDIJzQikWp13Y1C1Hu94R36O2~-wpdNG2TB8j6OHMIYlHjSdn8mdPzftXWLAL5V6vc3fdlxBm~sA~ImbvaBrpiuviJZvoTQ3TUJM1zZUzy8eBD51ytKKunCdbm67rEaiSOmhXFOcy8muDDR18mgCWUqprFbmR1B0H6PJuUhrbt-NZ6-0NkVtozZzwgepYE0X7ODOYhMP~5akh-VkddYxVvS6iFhA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 ---

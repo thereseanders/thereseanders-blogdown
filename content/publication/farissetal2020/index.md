@@ -18,7 +18,7 @@ publication_types:
 - "3"
 publishDate: ""
 slides: 
-summary: Under review
+summary: Revise & resubmit at *Journal of Conflict Resolution*
 tags:
 - Measurement
 title: New Estimates of Over 500 Years of Historic GDP and Population Data
