@@ -18,7 +18,7 @@ publication_types:
 - "3"
 publishDate: ""
 slides: 
-summary: Revise and resubmit at *Journal of Population Economics*
+summary: 'Revise and resubmit at *Journal of Population Economics*'
 tags:
 - Migration
 title: Deportation, Crime, and Victimization

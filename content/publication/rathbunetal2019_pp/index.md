@@ -18,7 +18,7 @@ publication_types:
 - "2"
 publishDate: "2019-06-01"
 slides: 
-summary: *Political Psychology* (2019)
+summary: '*Political Psychology* (2019)'
 tags:
 - International Relations
 title: Moral Hazard. German Public Opinion on the Greek Debt Crisis
