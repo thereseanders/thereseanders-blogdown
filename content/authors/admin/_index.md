@@ -27,7 +27,7 @@ role: Data scientist • Postdoctoral researcher
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:tanders@usc.edu'
+  link: 'mailto:tanders.usc@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/thereanders
