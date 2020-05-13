@@ -15,7 +15,7 @@ projects: []
 publication: ''
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: ""
 slides: 
 summary: '*Journal of Population Economics* (conditionally accepted)'
