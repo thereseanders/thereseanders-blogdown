@@ -4,7 +4,7 @@ authors:
 - "[Christopher J. Fariss](http://cfariss.com)"
 - admin
 - "[Jonathan N. Markowitz](https://dornsife.usc.edu/jonathan-markowitz/)"
-date: "2020-02-04"
+date: "2020-01-03"
 doi: ""
 featured: true
 image:
