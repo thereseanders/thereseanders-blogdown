@@ -4,7 +4,7 @@ authors:
 - "[Sandra Rozo](https://www.sandravrozo.com)"
 - "[Steven P. Raphael](https://gspp.berkeley.edu/directories/faculty/steven-raphael)"
 - admin
-date: "2019-12-01"
+date: "2020-05-13"
 doi: ""
 featured: true
 image:
@@ -18,7 +18,7 @@ publication_types:
 - "3"
 publishDate: ""
 slides: 
-summary: 'Revise and resubmit at *Journal of Population Economics*'
+summary: '*Journal of Population Economics* (conditionally accepted)'
 tags:
 - Migration
 title: Deportation, Crime, and Victimization
