@@ -32,5 +32,5 @@ url_source: ""
 url_video: ""
 links:
 - name: Shiny app
-- url: https://thereseanders.shinyapps.io/pop_gdp_gdppc/
+  url: https://thereseanders.shinyapps.io/pop_gdp_gdppc/
 ---
