@@ -3,7 +3,7 @@ abstract: Scholars systematically mismeasure power-resources and military burden
 authors:
 - admin
 - "[Christopher J. Fariss](http://cfariss.com)"
-- "[Jonathan N. Markowitz](https://dornsife.usc.edu/jonathan-markowitz/)"
+- "[Jonathan N. Markowitz](https://johnzkan.wixsite.com/jonathanmarkowitz)"
 date: "2020-01-04"
 doi: ""
 featured: true

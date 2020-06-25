@@ -3,7 +3,7 @@ abstract: Gross Domestic Product (GDP), GDP per capita, and population are centr
 authors:
 - "[Christopher J. Fariss](http://cfariss.com)"
 - admin
-- "[Jonathan N. Markowitz](https://dornsife.usc.edu/jonathan-markowitz/)"
+- "[Jonathan N. Markowitz](https://johnzkan.wixsite.com/jonathanmarkowitz)"
 date: "2020-01-03"
 doi: ""
 featured: true
@@ -31,4 +31,6 @@ url_slides: ""
 url_source: ""
 url_video: ""
 links:
+- name: Shiny app
+- url: https://thereseanders.shinyapps.io/pop_gdp_gdppc/
 ---
