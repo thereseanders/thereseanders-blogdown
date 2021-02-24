@@ -12,13 +12,13 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*International Studies Quarterly*'
+publication: International Studies Quarterly
 publication_short: ""
 publication_types:
 - "2"
 publishDate: 2020
 slides: 
-summary: '*International Studies Quarterly* (2020)'
+summary: '[*International Studies Quarterly* (2020)](https://academic.oup.com/isq/article-abstract/64/2/392/5824855)'
 tags:
 - International Relations
 - Measurement

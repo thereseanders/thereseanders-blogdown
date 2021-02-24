@@ -18,7 +18,7 @@ publication_types:
 - "2"
 publishDate: ""
 slides: 
-summary: '*Journal of Population Economics* (conditionally accepted)'
+summary: '[*Journal of Population Economics* (2021)](https://link.springer.com/article/10.1007/s00148-020-00785-3)'
 tags:
 - Migration
 title: Deportation, Crime, and Victimization
