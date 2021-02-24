@@ -16,7 +16,7 @@ publication_types:
 - "2"
 publishDate: ""
 slides: 
-summary: 'Forthcoming in *Journal of Peace Research*'
+summary: '[*Journal of Peace Research* (2020)](https://journals.sagepub.com/doi/10.1177/0022343320959687)'
 tags:
 - Machine Learning
 - Civil war
@@ -24,7 +24,7 @@ tags:
 title: Territorial control in civil wars. Theory and measurement using machine learning
 url_code: https://github.com/thereseanders/territorialcontrol-jpr
 url_dataset: ""
-url_pdf: anders2019_jpr.pdf
+url_pdf: territorialcontrol_jpr_main_200608.pdf
 url_poster: ""
 url_project: 
 url_slides: anders_territorialcontrol_newfaces2019.pdf
@@ -32,5 +32,5 @@ url_source: ""
 url_video: ""
 links:
 - name: Appendix
-  url: territorialcontrol_anders_appendix_191211.pdf
+  url: territorialcontrol_jpr_appendix_200608.pdf
 ---
