@@ -9,6 +9,7 @@ summary: USC Security & Political Economy (SPEC) Lab
 tags:
 - Data management
 - R
+weight: 6
 title: Intro to data management in the tidyverse
 subtitle: Lecture & lab series, USC Security & Political Economy (SPEC) Lab
 url_code: ""

@@ -9,6 +9,7 @@ summary: USC Security & Political Economy (SPEC) Lab
 tags:
 - Data visualization
 - R
+weight: 7
 title: Intro to data visualization in R
 subtitle: Lecture series for USC Security & Political Economy (SPEC) Lab
 url_code: ""

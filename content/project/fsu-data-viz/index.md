@@ -9,6 +9,7 @@ summary: Florida State University Summer Methods School
 tags:
 - Data visualization
 - R
+weight: 2
 title: Advanced data visualization in R
 subtitle: Florida State University Summer Methods School 2019
 url_code: ""

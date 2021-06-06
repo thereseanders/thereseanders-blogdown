@@ -9,6 +9,7 @@ summary: USC Political Science & International Relations (POIR) program
 tags:
 - R
 - Data visualization
+weight: 4
 title: Maps in R
 subtitle: USC Political Science & International Relations (POIR) program
 url_code: ""

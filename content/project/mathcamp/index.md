@@ -9,6 +9,7 @@ summary: USC Political Science & International Relations (POIR) and Sociology de
 tags:
 - Math
 - R
+weight: 3
 title: Math and quantitative methods for social science Ph.D. students
 subtitle: USC POIR & Sociology departments
 url_code: ""

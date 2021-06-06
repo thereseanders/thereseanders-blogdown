@@ -8,6 +8,7 @@ slides:
 summary: USC Political Science & International Relations (POIR) program
 tags:
 - LaTeX
+weight: 8
 title: Intro to LaTeX
 subtitle: USC Political Science & International Relations (POIR) program
 url_code: ""
