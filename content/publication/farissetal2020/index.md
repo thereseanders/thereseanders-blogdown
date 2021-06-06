@@ -15,10 +15,10 @@ projects: []
 publication: ''
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: ""
 slides: 
-summary: Revise & resubmit at *Journal of Conflict Resolution*
+summary: Accepted at *Journal of Conflict Resolution*
 tags:
 - Measurement
 title: New Estimates of Over 500 Years of Historic GDP and Population Data
