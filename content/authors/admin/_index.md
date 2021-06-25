@@ -42,7 +42,7 @@ social:
 superuser: true
 ---
 
-I am a data scientist at Apple, where I develop R software and [Shiny](https://shiny.rstudio.com/) applications to model global network and infrastructure. As an intern at [RStudio](https://www.rstudio.com), I contributed open-source software for peer review in data science courses via the [`ghclass`](https://rundel.github.io/ghclass/articles/peer.html) R package.
+I am a data scientist at Apple, where I develop R software and [Shiny](https://shiny.rstudio.com/) applications to model global network and infrastructure demand. As an intern at [RStudio](https://www.rstudio.com), I contributed open-source software for peer review in data science courses via the [`ghclass`](https://rundel.github.io/ghclass/articles/peer.html) R package.
 
 Previously, I worked as a data scientist and postdoctoral researcher at the [Hertie School Data Science Lab](https://www.hertie-school.org/en/datasciencelab/) and [SCRIPTS](https://www.scripts-berlin.eu) Data and Methodology Center. My research focuses on conflict processes and computational social science. Recent projects explore the estimation of territorial control in civil war, dynamics of migration, and spatiotemporal patterns of states’ economic power. 
 
